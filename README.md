@@ -1,6 +1,26 @@
 # projekt_odbornaprax
 Školský projekt bol zameraný na vytvorenie plne funkčného systému pre evidenciu odbornej praxe na vysokej škole.
 
+## Ukážky projektu
+
+### Hlavná stránka
+![Hlavná stránka](images/hlavnastranka.png)
+
+### Aktivačný email
+![Aktivačný email](images/aktivacnyemail.png)
+
+### Pridanie praxe
+![Pridanie praxe](images/pridaniepraxe.png)
+
+### Dashboard študenta a firmy
+![Dashboard študenda](images/dashboardstudenta.png)
+![Dashboard firmy](images/dashboardfirmy.png)
+
+### Detaily praxe
+![Detaily praxe](images/detailpraxe.png)
+![Detaily praxe2](images/detailpraxe2.png)
+
+
 # Systém na evidenciu odbornej praxe
 
 Webový systém na **evidenciu odbornej praxe** (študent – firma – garant – externý systém) so správou procesov, stavov praxe, dokumentov a exportov.
